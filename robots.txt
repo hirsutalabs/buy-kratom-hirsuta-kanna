@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR_GITHUB_USERNAME.github.io/hirsutalab/sitemap.xml
+Sitemap: https://hirsutalabs.github.io/buy-kratom-hirsuta-kanna/sitemap.xml
