@@ -730,3 +730,22 @@ img { max-width: 100%; height: auto; display: block; }
   .product-page-grid { grid-template-columns: 1fr; gap: 30px; }
   .product-page-body { grid-template-columns: 1fr; gap: 24px; }
 }
+
+
+/* ---- Related Products ---- */
+.related-products { margin: 60px 0 0; }
+.related-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 16px; margin-top: 24px; }
+.related-card { border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; text-decoration: none; color: var(--text); transition: border-color 0.3s, transform 0.3s; display: block; background: var(--bg-card); }
+.related-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.related-card img { width: 100%; aspect-ratio: 4/3; object-fit: cover; }
+.related-card-body { padding: 12px; }
+.related-name { display: block; font-size: 13px; font-weight: 500; margin-bottom: 4px; }
+.related-price { font-size: 12px; color: var(--accent); }
+
+/* ---- Rating row ---- */
+.rating-row { display: flex; align-items: center; gap: 10px; margin: 8px 0 16px; }
+.stars { color: var(--accent-warm); font-size: 16px; letter-spacing: 1px; }
+.rating-text { font-size: 13px; color: var(--text-muted); }
+
+/* ---- Disclaimer ---- */
+.disclaimer { text-align: center; font-size: 12px; color: var(--text-muted); border: 1px solid var(--border); border-radius: var(--radius); padding: 12px 20px; max-width: 700px; margin: 0 auto; }
