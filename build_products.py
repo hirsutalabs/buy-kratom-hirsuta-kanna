@@ -323,7 +323,7 @@ PRODUCT_META = {
   },
   "kanna-extract-strong": {
     "shop_url": "https://hirsutalab.com/products/29-kanna-extract-powder.html",
-    "img": "https://hirsutalab.com/uploads/posts/2026-01/medium/1769712789_kanna-strong-100g.png",
+    "img": "https://hirsutalab.com/img/kanna-strong-hirsutalab.png",
     "price": "42.74",
     "names": {"en":"Kanna Extract Powder (Strong)","de":"Kanna Extraktpulver (Stark)","fr":"Poudre d'Extrait Kanna (Fort)","cs":"Prášek z extraktu Kanna (Silný)","sl":"Kanna ekstrakt prah (Močan)","sk":"Prášok z extraktu Kanna (Silný)","pl":"Proszek z ekstraktu Kanna (Mocny)","ru":"Порошок экстракта Kanna (Сильный)"},
   },
@@ -341,7 +341,7 @@ PRODUCT_META = {
   },
   "kanna-full-spectrum": {
     "shop_url": "https://hirsutalab.com/products/9-kanna-full-spectrum-extract.html",
-    "img": "https://hirsutalab.com/uploads/posts/2026-01/medium/1769712789_kanna-strong-100g.png",
+    "img": "https://hirsutalab.com/img/kanna-strong-hirsutalab.png",
     "price": "55.00",
     "names": {"en":"Kanna Full Spectrum Extract","de":"Kanna Vollspektrum-Extrakt","fr":"Extrait Kanna à Spectre Complet","cs":"Kanna Full Spectrum extrakt","sl":"Kanna Full Spectrum ekstrakt","sk":"Kanna Full Spectrum extrakt","pl":"Kanna Ekstrakt Pełnego Spektrum","ru":"Kanna Экстракт Полного Спектра"},
   },
