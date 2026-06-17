@@ -31,7 +31,7 @@ PRODUCTS = [
   {
     "slug": "mitragyna-hirsuta",
     "shop_url": "https://hirsutalab.com/products/11-mitragyna-hirsuta-kra-thum-khok-leaf-powder.html",
-    "img": "https://hirsutalab.com/uploads/posts/2026-01/medium/1769213692_mytragina-hirsuta-buy-250.jpg",
+    "img": "https://hirsutalab.com/img/mitragyna-hirsuta-hirsutalab.png",
     "img2": "https://hirsutalab.com/uploads/posts/2026-01/medium/1769213741_mytragina-hirsuta-buy-500g.jpg",
     "price_min": "23.21",
     "price_max": "89.00",
@@ -305,7 +305,7 @@ UI = {
 PRODUCT_META = {
   "mitragyna-hirsuta": {
     "shop_url": "https://hirsutalab.com/products/11-mitragyna-hirsuta-kra-thum-khok-leaf-powder.html",
-    "img": "https://hirsutalab.com/uploads/posts/2026-01/medium/1769213692_mytragina-hirsuta-buy-250.jpg",
+    "img": "https://hirsutalab.com/img/mitragyna-hirsuta-hirsutalab.png",
     "price": "23.21",
     "names": {"en":"Mitragyna Hirsuta Leaf Powder","de":"Mitragyna Hirsuta Blattpulver","fr":"Poudre de Feuilles Mitragyna Hirsuta","cs":"Mitragyna Hirsuta listový prášek","sl":"Mitragyna Hirsuta listni prah","sk":"Mitragyna Hirsuta listový prášok","pl":"Proszek z liści Mitragyna Hirsuta","ru":"Порошок Mitragyna Hirsuta"},
   },
